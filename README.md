@@ -1,2 +1,2 @@
-# oprek-tech
-Oprek Tech 
+# my-links
+Links, OprekTech
